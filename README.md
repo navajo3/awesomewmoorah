@@ -1,2 +1,5 @@
-# awesomewmoorah
-my configs and more 
+# AwesomeWM Configs
+
+just my linux install configs and more
+
+mostly for my use when needed but feel free to take anything if u like..
